@@ -1,5 +1,5 @@
 // トークンの設定
-var channel_access_token = "HTd8O97pqlSA5uWM3pF4eIPWC74VTM+xlsFakXG0VfGcDsTGnNMzaHpF02+Hi0Rtw7ACKO3gkT4yj6JmTZZEQUzPFh+ct43h5/t/rYRomYcyn4pDp82K4sIyhN9p1BGkWnh26WHDwUMucx2XT/qZXAdB04t89/1O/w1cDnyilFU=";
+var channel_access_token = "Lineのアクセストークン";
 
 //LineBotからのメッセージ受信
 function doPost(e) {
