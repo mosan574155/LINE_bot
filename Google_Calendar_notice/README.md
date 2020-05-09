@@ -2,7 +2,7 @@
 
 概要
 
-## LIne notify 
+## Lne notify 
 
 LIne公式の通知
 
